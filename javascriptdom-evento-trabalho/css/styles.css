@@ -1,0 +1,31 @@
+#contador-btn {
+    padding: 10px 20px;
+    background-color:blue ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+#contador-btn:hover {
+    background-color:rgb(36, 212, 20); /* Cor ao passar o mouse */
+}
+
+#alert-btn{
+    padding: 10px 20px;
+    background-color:rgb(36, 212, 20);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#alert-btn:hover {
+    background-color:blue; /* Cor ao passar o mouse */
+    color: rgb(192, 19, 178);
+}
+#resultado{font-size: x-large;
+}
